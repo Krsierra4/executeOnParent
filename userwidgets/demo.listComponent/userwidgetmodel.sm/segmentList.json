@@ -1,0 +1,168 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentList",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eb80e11dd71f41dfbb8a2455c60318bc",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "listComponent",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 2,
+    "rowfocusskin": "s66dea62cc764636abbf76207059de10",
+    "rowskin": "s0c60f0f5b2b481b919190e6e8375c19",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sab7ee61982049b2bc09d4fa4f0c6d8b",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "tablet": {
+        "_data_": [
+            {
+                "Image0i989ae48bac34f": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "labelName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Name"
+                },
+                "valueName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Kenny Sierra"
+                }
+            },
+            {
+                "Image0i989ae48bac34f": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "labelName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Name"
+                },
+                "valueName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Gustavo Morataya"
+                }
+            },
+            {
+                "Image0i989ae48bac34f": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "labelName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Name"
+                },
+                "valueName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Mario Hernandez"
+                }
+            }
+        ],
+        "rowTemplateId": "f1fcf956cc7d4d71941a39d16b7ca020",
+        "rowtemplate": "Flex0b43c73b635cf45",
+        "widgetdatamap": {
+            "Flex0b43c73b635cf45": "Flex0b43c73b635cf45",
+            "FlexContainer0a8954225fb6a4a": "FlexContainer0a8954225fb6a4a",
+            "Image0i989ae48bac34f": "Image0i989ae48bac34f",
+            "labelName": "labelName",
+            "valueName": "valueName"
+        }
+    },
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Flex0b43c73b635cf45": "Flex0b43c73b635cf45",
+        "FlexContainer0a8954225fb6a4a": "FlexContainer0a8954225fb6a4a",
+        "Image0i989ae48bac34f": "Image0i989ae48bac34f",
+        "labelName": "labelName",
+        "valueName": "valueName"
+    },
+    "zindex": 1
+}
