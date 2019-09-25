@@ -59,7 +59,7 @@
     "isvisible": true,
     "kuid": "edb1e88741d74882be38086c4bb546b6",
     "name": "kony.ui.Label",
-    "parent": "Flex0b43c73b635cf45",
+    "parent": "profileContainer",
     "pf": "Temp0b40d1da1001a4f",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

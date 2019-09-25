@@ -21,7 +21,7 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "Flex0b43c73b635cf45"
+        "profileContainer"
     ],
     "containerId": true,
     "containerweight": 100,

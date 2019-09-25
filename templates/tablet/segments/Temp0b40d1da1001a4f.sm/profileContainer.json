@@ -45,11 +45,11 @@
     "controllerInfo": {
         "default": {
             "channel": "tablet",
-            "name": "Flex0b43c73b635cf45Controller"
+            "name": "profileContainerController"
         }
     },
     "enablescrolling": true,
-    "id": "Flex0b43c73b635cf45",
+    "id": "profileContainer",
     "info": null,
     "isTemplate": true,
     "iscustomlayout": false,
