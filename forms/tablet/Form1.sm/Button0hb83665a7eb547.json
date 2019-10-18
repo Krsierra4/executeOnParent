@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "sf09b6864bff4a56ab02dae07d748552",
-    "_text_": "Button",
+    "_text_": "Change data",
     "_top_": {
         "type": "string",
         "value": "118dp"
@@ -38,6 +38,7 @@
     "displaytext": true,
     "focusskin": "s37bc6e20cca4335b4041f0b80f6824f",
     "id": "Button0hb83665a7eb547",
+    "ide_onClick": "AS_Button_jc2382ea7f1c4cf4a7aea27249b675be",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
