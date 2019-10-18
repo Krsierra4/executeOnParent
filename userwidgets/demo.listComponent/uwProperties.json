@@ -2,7 +2,20 @@
     "classname": "listComponent",
     "definitions": {
         "apis": {
-            "custom": [],
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "g4ba18a7197d466d82d51d37c8b9db88",
+                    "paramList": [],
+                    "propertyKey": "changeListData",
+                    "pw": {
+                        "displayName": "changeListData",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "h1c4d3a12e15467e821d87675169a39e",
+                    "type": "event"
+                }
+            ],
             "passthrough": []
         },
         "events": {
@@ -10,7 +23,9 @@
             "passthrough": []
         },
         "groups": {
-            "apis": [],
+            "apis": [
+                "General"
+            ],
             "events": [],
             "properties": [],
             "widgets": []

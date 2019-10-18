@@ -34,6 +34,18 @@ define(function () {
         }
       };
       this.view.segmentList.animateRows(animationConfig);
+    },
+
+    changeListData: function() {
+      var dataMap = { labelName: 'labelName', valueName: 'valueName' };
+      var newData = [
+        {labelName: 'Name', valueName: 'Thomas Edison'},
+        {labelName: 'Name', valueName: 'Nikola Tesla'},
+        {labelName: 'Name', valueName: 'Albert Einstein'},
+        {labelName: 'Name', valueName: 'Marie Curie'}
+      ]
+      this.view.segmentList.widgetDataMap = dataMap;
+      this.view.segmentList.setData(newData);
     }
   };
 });
