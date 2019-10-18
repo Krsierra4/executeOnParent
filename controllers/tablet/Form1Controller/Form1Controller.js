@@ -1,5 +1,6 @@
 define({ 
-
- //Type your controller code here 
+    onClickButton: function() {
+        this.view.listComponent.changeListData();
+    }
 
  });
