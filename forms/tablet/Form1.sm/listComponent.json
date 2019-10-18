@@ -48,7 +48,7 @@
     "layouttype": 2,
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "Form1",
+    "parent": "flx1",
     "pf": "Form1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

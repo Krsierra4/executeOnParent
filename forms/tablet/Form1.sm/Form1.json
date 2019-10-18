@@ -30,7 +30,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "listComponent"
+        "flx1",
+        "flx2"
     ],
     "containerweight": 100,
     "controllerInfo": {
