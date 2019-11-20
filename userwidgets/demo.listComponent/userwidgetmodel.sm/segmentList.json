@@ -103,43 +103,15 @@
             {
                 "Image0i989ae48bac34f": {
                     "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                    "src": "imagedrag.png"
+                    "src": ""
                 },
                 "labelName": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Name"
+                    "text": ""
                 },
                 "valueName": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Kenny Sierra"
-                }
-            },
-            {
-                "Image0i989ae48bac34f": {
-                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                    "src": "imagedrag.png"
-                },
-                "labelName": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Name"
-                },
-                "valueName": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Gustavo Morataya"
-                }
-            },
-            {
-                "Image0i989ae48bac34f": {
-                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                    "src": "imagedrag.png"
-                },
-                "labelName": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Name"
-                },
-                "valueName": {
-                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "text": "Mario Hernandez"
+                    "text": ""
                 }
             }
         ],

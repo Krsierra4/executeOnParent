@@ -5,11 +5,23 @@
             "custom": [
                 {
                     "group": "General",
-                    "kuid": "g4ba18a7197d466d82d51d37c8b9db88",
+                    "kuid": "bc544d243f584d33b520089850fd7a94",
                     "paramList": [],
-                    "propertyKey": "changeListData",
+                    "propertyKey": "setActionCallback",
                     "pw": {
-                        "displayName": "changeListData",
+                        "displayName": "setActionCallback",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "h1c4d3a12e15467e821d87675169a39e",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "fb018e7535184568b1ca9c5f0a07d188",
+                    "paramList": [],
+                    "propertyKey": "setListData",
+                    "pw": {
+                        "displayName": "setListData",
                         "uiRepresentation": "Label-Label-Button-Button"
                     },
                     "srcWgtKUID": "h1c4d3a12e15467e821d87675169a39e",
