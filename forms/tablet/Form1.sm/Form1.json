@@ -30,8 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flx1",
-        "flx2"
+        "flx1"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -48,6 +47,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "Form1",
+    "ide_postShow": "AS_Form_geef5d7990ad4141b2ae5c8572d6179e",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
