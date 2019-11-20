@@ -35,9 +35,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "labelName",
-        "valueName",
-        "FlexContainer0a8954225fb6a4a"
+        "flxProfile",
+        "flxAction"
     ],
     "clipbounds": true,
     "containerId": true,
@@ -55,7 +54,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "a70a8ee79b734a43828374cafe967ba4",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "Temp0b40d1da1001a4f",
     "pf": "Temp0b40d1da1001a4f",
