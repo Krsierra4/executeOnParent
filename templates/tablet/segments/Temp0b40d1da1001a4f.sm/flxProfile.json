@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "34dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "670dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -26,28 +26,28 @@
     "_skin_": "s78a1f8a9efe4a56840cf06507b4526d",
     "_top_": {
         "type": "string",
-        "value": "17dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "5.21%"
+        "value": "80%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "Image0i989ae48bac34f"
+        "labelName",
+        "valueName"
     ],
     "clipbounds": true,
     "containerId": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FlexContainer0a8954225fb6a4a",
-    "ide_onClick": "AS_FlexContainer_e46b0200366c4f1e8847cb3c5e458e42",
+    "id": "flxProfile",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a37424c17f5840dd9ac749128bbe8985",
+    "kuid": "i2c6a3ea822948e3965a34d5e98141d1",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "profileContainer",
@@ -58,6 +58,5 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "widgetalignment": 1
 }

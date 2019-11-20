@@ -1,12 +1,13 @@
 {
     "DNDConfig": null,
+    "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "120dp"
+        "value": "100%"
     },
     "_left_": {
-        "type": "string",
-        "value": "0dp"
+        "type": "number",
+        "value": "0"
     },
     "_margin_": [
         0,
@@ -22,41 +23,34 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s969b488b7f74b809b660be1af1189e2",
+    "_skin_": "sdec1d31c33047caa17bd7e55802e268",
     "_top_": {
-        "type": "string",
-        "value": "0dp"
+        "type": "number",
+        "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "20%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxProfile",
-        "flxAction"
+        "textAction"
     ],
     "clipbounds": true,
     "containerId": true,
     "containerweight": 100,
-    "controllerInfo": {
-        "default": {
-            "channel": "tablet",
-            "name": "profileContainerController"
-        }
-    },
     "enablescrolling": true,
-    "id": "profileContainer",
+    "id": "flxAction",
+    "ide_onClick": "AS_FlexContainer_ab2d8be5edc04ad3a0de2e374e3306a8",
     "info": null,
-    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a70a8ee79b734a43828374cafe967ba4",
-    "layouttype": 3,
+    "kuid": "f464be37be134aa6b171c128cc835e50",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "Temp0b40d1da1001a4f",
+    "parent": "profileContainer",
     "pf": "Temp0b40d1da1001a4f",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
@@ -64,5 +58,6 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }
