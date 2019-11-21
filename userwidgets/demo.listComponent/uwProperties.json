@@ -44,7 +44,36 @@
         },
         "properties": {
             "custom": [],
-            "passthrough": []
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b93e785b01174fe4b29c9b00d745c571",
+                    "originalPropertyKey": "data",
+                    "propertyIndex": 1,
+                    "propertyKey": "data",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "data",
+                        "srcWidget": "segmentList",
+                        "type": "data",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Masterdata-Segment",
+                                "dataUpdaterId": "Masterdata-Segment",
+                                "popupId": "Masterdata-Segment",
+                                "type": "SegmentMasterDataBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Button",
+                        "wType": "Segment"
+                    },
+                    "srcWgtKUID": "eb80e11dd71f41dfbb8a2455c60318bc"
+                }
+            ]
         },
         "widgets": {
             "expose": [],
