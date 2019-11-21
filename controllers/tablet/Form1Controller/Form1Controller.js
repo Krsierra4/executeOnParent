@@ -13,9 +13,9 @@ define({
     this.view.listComponent.setActionCallback(this.duplicateRecord);
   },
   duplicateRecord: function(rowInfo) {
-    //TODO duplicar record
-    // this.segmentData = this.segmentData.push({labelName: 'Name', valueName: 'Manu Chao'});
-    this.segmentData = [...this.segmentData, {labelName: 'Name', valueName: 'Manu Chao'}];
+    var record = this.view.listComponent.data[rowInfo.row];
+    record.valueName = record.valueName + ' (copy)';
+    this.segmentData = [...this.segmentData, record];
     this.setSegmentData();
   },
   setSegmentData: function (){
